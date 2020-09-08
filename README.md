@@ -1,1 +1,1 @@
-This is a react prosject im experimenting with
+This is a react project im experimenting with
